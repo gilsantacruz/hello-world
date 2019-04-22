@@ -1,2 +1,6 @@
 # hello-world
-first one repo
+
+Hi everyone 
+
+123 lines 
+Using for testing purposes 
